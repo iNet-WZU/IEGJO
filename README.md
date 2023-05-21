@@ -1,2 +1,5 @@
 # IEGJO
-Energy-saving access point configurations in WLANs: a swarm intelligent approach
+
+Developed by Innovation Research Center for Intelligent Networking at Wenzhou University.
+
+Author: Long Chen.

@@ -1,7 +1,7 @@
 % Please refer to the main paper:
 % Energy-saving access point configurations in WLANs: a swarm intelligent approach
 % Long Chen, Fangyi Xu, Kezhong Jin and Zhenzhou Tang
-% The journal of Supercomputing , DOI:
+% The journal of Supercomputing , DOI: https://doi.org/10.1007/s11227-023-05402-0
 %        AND
 % Nitish Chopra, Muhammad Mohsin Ansari
 % Golden jackal optimization: A novel nature-inspired optimizer for engineering applications

@@ -43,8 +43,8 @@ grid off
 box on
 legend('IEGJO')
 
-display(['The best location of EESHHO is: ', num2str(Best_pos)]);
-display(['The best fitness of EESHHO is: ', num2str(Best_score)]);
+display(['The best location of IEGJO is: ', num2str(Best_pos)]);
+display(['The best fitness of IEGJO is: ', num2str(Best_score)]);
 
         
 
